@@ -1,0 +1,26 @@
+.container1{
+  background-image: url("../images/backgrounds/h_img.jpg");
+  height: 100vh;
+  width: 100vw;
+}
+.container3{
+  background-image: url("../images/backgrounds/s_image.jpg");
+  height: 100vh;
+  width: 100vw;
+}
+
+.openerText{
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.aboutUs{
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.servicesText{
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
