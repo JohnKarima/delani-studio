@@ -1,5 +1,5 @@
 # Project Name 
-Delani Studio.
+Delani Studio Landing Page.
 
 ## Author 
 Created by John Karima.
