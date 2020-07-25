@@ -19,11 +19,9 @@ body{
 h1{
   font-size: 370%;
   font-weight: bold;
-
 }
 h2{
   font-weight: bold;
-
 }
 p{
   font-size: 130%;
@@ -32,7 +30,6 @@ p{
   text-align: center;
   padding: 4%
 }
-
 .services{
   background-image: url("../images/backgrounds/s_image.jpg");
   background-repeat: no-repeat;
@@ -41,11 +38,28 @@ p{
 }
 .servicesText{
   text-align: center;
-  padding: 9%
-
-  
-
+  padding: 7%
 }
+
+.whatWeDo{
+  padding: 4%
+}
+.container{
+  text-align: center;
+}
+
+
+
+.designDes{
+  display: none;
+}
+.developmentDes{
+  display: none;
+}
+.productDes{
+  display: none;
+}
+
 
 /* 
 .container3{
@@ -84,15 +98,7 @@ p{
 
 }
 
-.designDes{
-  display: none;
-}
-.developmentDes{
-  display: none;
-}
-.productDes{
-  display: none;
-}
+
 .box {
   padding: 0 5px 0 5px;
 } */
