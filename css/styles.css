@@ -82,13 +82,26 @@ p{
       max-width: 100%;
    }
 }
-
 .contactUs{
   background-image: url("../images/backgrounds/c_image.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  height: 70vh;
+  height: 80vh;
 }
+
+.footer{
+  padding-top: 3%;
+}
+
+.footerText{
+  font-size: 100%;
+}
+.icons{
+padding-left: 1%;
+}
+
+
+
 
 /* 
 .container3{
