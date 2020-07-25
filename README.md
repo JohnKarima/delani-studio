@@ -1,5 +1,5 @@
-# Project name 
-Akan Calculator.
+# Project Name 
+Delani Studio.
 
 ## Author 
 Created by John Karima.
@@ -36,4 +36,5 @@ karimajohn24@gmail.com
 
 ## License Copyright 
 - 2020, John Karima.
+
 https://opensource.org/licenses/MIT
