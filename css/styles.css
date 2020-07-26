@@ -22,6 +22,7 @@ h1{
 }
 h2{
   font-weight: bold;
+  text-align: center;
 }
 p{
   font-size: 130%;
@@ -43,7 +44,7 @@ p{
 .whatWeDo{
   padding: 4%
 }
-.container{
+.containerDo{
   text-align: center;
 }
 .designDes{
@@ -86,11 +87,11 @@ p{
   background-image: url("../images/backgrounds/c_image.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  height: 80vh;
+  height: 82vh;
 }
 
 .footer{
-  padding-top: 3%;
+  padding-top: 2.5%;
 }
 
 .footerText{
@@ -99,6 +100,8 @@ p{
 .icons{
 padding-left: 1%;
 }
+
+
 
 
 
