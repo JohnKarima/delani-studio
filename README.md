@@ -26,10 +26,10 @@ $ code .
 https://johnkarima.github.io/delani-studio/
 
 ## Dependencies
-- TBD
+- Mailchimp marketing automation platform to handle user email information.
 
 ## Technologies Used
-- TBD
+- HTML, CSS, JavaScript, Bootstrap & JQuery
 
 ## Contact Information
 karimajohn24@gmail.com
