@@ -61,11 +61,10 @@ p{
    flex-wrap: wrap;
    padding: 0 4px;
    justify-content: center;
-
 }
 .inner-grid {
    flex: 25%;
-   max-width: 17%;
+   max-width: 20%;
    padding: 0 4px;
 }
 .inner-grid img {
@@ -74,13 +73,13 @@ p{
    padding: 10px;
 }
 @media screen and (max-width: 800px) {
-   .inner-grid {
+   .inner-grid, .containerDo {
       flex: 50%;
       max-width: 50%;
    }
 }
 @media screen and (max-width: 600px) {
-   .inner-grid {
+   .inner-grid, .containerDo {
       flex: 100%;
       max-width: 100%;
    }

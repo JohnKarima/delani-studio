@@ -8,9 +8,9 @@ $(document).ready(function () {
   $(".productDo").click(function () {
     $(".productDes").fadeToggle();
   });
-  $(".hoverClass").hover(function(){
-    $(this).css("background-color", "yellow");
-    }, function(){
-    $(this).css("background-color", "");
+  $('.hoverClass').mouseover(function () {
+    $(this).css('opacity', '.7');
+  }).mouseout(function () {
+    $(this).css('opacity', '1');
   });
 });
