@@ -1,11 +1,17 @@
 $(document).ready(function () {
   $(".designDo").click(function () {
-    $(".designDes").fadeToggle();
+    $("#designPic").toggle();
+    $(".designDes").toggle();
+
   });
   $(".developmentDo").click(function () {
+    $("#developmentPic").toggle();
+
     $(".developmentDes").fadeToggle();
   });
   $(".productDo").click(function () {
+    $("#productPic").toggle();
+
     $(".productDes").fadeToggle();
   });
   $('.hoverClass').mouseover(function () {

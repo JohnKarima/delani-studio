@@ -32,7 +32,7 @@ p{
   padding: 4%
 }
 .services{
-  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)),url("../images/backgrounds/s_image.jpg");
+  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),url("../images/backgrounds/s_image.jpg");
   background-repeat: no-repeat;
   background-position: center;
   height: 50vh;
@@ -44,9 +44,6 @@ p{
 .whatWeDo{
   padding: 4%
 }
-/* .containerDo{
-  text-align: center;
-} */
 .designDes{
   display: none;
 }
@@ -55,6 +52,9 @@ p{
 }
 .productDes{
   display: none;
+}
+.clickable {
+  cursor: pointer;
 }
 .outer-grid {
    display: flex;
@@ -90,17 +90,20 @@ p{
   background-position: center;
   height: 82vh;
 }
-
 .footer{
   padding-top: 2.5%;
 }
-
 .footerText{
   font-size: 100%;
 }
 .icons{
 padding-left: 1%;
 }
+
+
+
+
+
 
 
 /* 
