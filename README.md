@@ -23,7 +23,7 @@ $ code .
 - Run the project on Live Server
 
 ## Link to Live Project
-- TBD
+https://johnkarima.github.io/delani-studio/
 
 ## Dependencies
 - TBD

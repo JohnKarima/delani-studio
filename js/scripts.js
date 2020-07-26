@@ -2,17 +2,14 @@ $(document).ready(function () {
   $(".designDo").click(function () {
     $("#designPic").toggle();
     $(".designDes").toggle();
-
   });
   $(".developmentDo").click(function () {
     $("#developmentPic").toggle();
-
-    $(".developmentDes").fadeToggle();
+    $(".developmentDes").toggle();
   });
   $(".productDo").click(function () {
     $("#productPic").toggle();
-
-    $(".productDes").fadeToggle();
+    $(".productDes").toggle();
   });
   $('.hoverClass').mouseover(function () {
     $(this).css('opacity', '.7');
