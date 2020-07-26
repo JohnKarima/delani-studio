@@ -60,10 +60,12 @@ p{
    display: flex;
    flex-wrap: wrap;
    padding: 0 4px;
+   justify-content: center;
+
 }
 .inner-grid {
    flex: 25%;
-   max-width: 25%;
+   max-width: 17%;
    padding: 0 4px;
 }
 .inner-grid img {
