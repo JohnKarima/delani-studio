@@ -11,9 +11,12 @@ $(document).ready(function () {
     $("#productPic").toggle();
     $(".productDes").toggle();
   });
-  $('.hoverClass').mouseover(function () {
-    $(this).css('opacity', '.7');
-  }).mouseout(function () {
-    $(this).css('opacity', '1');
-  });
+  // $('.hoverClass').mouseover(function () {
+  //   $(this).css('opacity', '.7');
+  // }).mouseout(function () {
+  //   $(this).css('opacity', '1');
+  // });
+
 });
+
+
