@@ -146,6 +146,9 @@ p{
   background-position: center;
   height: 82vh;
 }
+#text-area, #mce-FNAME, #mce-EMAIL{
+  max-width: 100%;
+}
 .footer{
   padding-top: 2.5%;
 }
