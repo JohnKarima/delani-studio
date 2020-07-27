@@ -135,6 +135,8 @@ p{
   border-style: solid;
   border-color: white;
   border-width: 2px;
+  max-width: 100%;
+
 }
 ::-webkit-input-placeholder {
   font-style: italic;
@@ -145,9 +147,6 @@ p{
   background-repeat: no-repeat;
   background-position: center;
   height: 82vh;
-}
-#text-area, #mce-FNAME, #mce-EMAIL{
-  max-width: 100%;
 }
 .footer{
   padding-top: 2.5%;
