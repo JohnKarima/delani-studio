@@ -1,3 +1,11 @@
+function resetFields() {
+  $("input#mce-FNAME").val("");
+  $("input#mce-EMAIL").val("");
+}
+function eraseText() {
+  document.getElementById("text-area").value = "";
+}
+
 $(document).ready(function () {
   $(".designDo").click(function () {
     $("#designPic").toggle();
@@ -26,5 +34,7 @@ $(document).ready(function () {
     else {
       alert("Please enter your name and email address");
     }
+    resetFields();
+    eraseText();
   });
   });

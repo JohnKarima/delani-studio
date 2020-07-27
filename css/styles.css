@@ -139,7 +139,7 @@ p{
 }
 ::-webkit-input-placeholder {
   font-style: italic;
-  color: rgba(0, 0, 0, 0.918);
+  color: rgba(252, 252, 252, 0.918);
 }
 .contactUs{
   background-image:  url("../images/backgrounds/c_image.jpg");
